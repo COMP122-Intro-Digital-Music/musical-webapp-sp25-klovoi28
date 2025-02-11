@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Female Vocals Sample",
+    "file": "samples/vintage-instrumental-female-choir_83bpm_F_minor.wav",
+    "bpm": "200",
+    "loop": "1m",
+    "grain": "0.141",
+    "overlap": "0.03"
+  },
+  {
+    "name": "Piano Melody Sample",
+    "file": "samples/beautiful-mellow-piano-melody_120bpm_D_major.wav",
+    "bpm": "40",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Birds Chirping Sample ",
+    "file": "samples/birds-singing_136bpm_A#_minor.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
