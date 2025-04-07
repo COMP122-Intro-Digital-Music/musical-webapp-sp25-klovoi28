@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "name": "Sequence Melody 1 ",
+    "loop": "1m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:1:0.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:0.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]
